@@ -27,7 +27,6 @@ class StraightUseCase implements StraightUseCaseInterface
                 }
             } else {
                 $straightNumber = 1;
-                $isStraight = false;
             }
             $firstNumber = $item;
         }
