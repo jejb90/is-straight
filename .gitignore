@@ -21,3 +21,9 @@ php/
 /nbproject/
 .vscode
 .php_cs
+.gitattributes
+.phpunit.result.cache
+.styleci.yml
+composer.lock
+
+
