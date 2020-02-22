@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Sobre el proyecto
+
+la Url para validar es api/is-straight con   'Content-Type' => 'application/json', 'Accept' => 'application/json'
+enviando el body request como {"straight":[2,3,4,5,6]}
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
